@@ -50,7 +50,7 @@
 &kp TAB    &kp Q  &kp W         &kp E            &kp R        &kp T           &kp Y         &kp U        &kp I        &kp O         &kp P     &kp BSPC
 &kp ESC    &kp A  &HML LCTRL S  &HML LEFT_ALT D  &HML LCMD F  &HML LSHFT G    &HMR RSHFT H  &HMR J RCMD  &HMR RALT K  &HMR RCTRL L  &kp SEMI  &kp SQT
 &kp LSHFT  &kp Z  &kp X         &kp C            &kp V        &kp B           &kp N         &kp M        &kp COMMA    &kp DOT       &kp FSLH  &kp BACKSLASH
-                                &to 0            &kp ENTER    &mo 2           &mo 1         &kp SPACE    &kp RALT
+                                &to 0            &kp ENTER    &mo 2           &mo 1         &kp SPACE    &to 1
             >;
         };
 
