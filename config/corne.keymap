@@ -62,10 +62,10 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp F1     &kp F2        &kp F3        &kp F4        &kp F5        &kp F6        &kp F7                     &kp F8     &kp F9    &kp F10  &kp F11  &kp F12
-&kp GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &HML N5 N5    &HMR RIGHT_SHIFT NUMBER_6  &kp N7     &kp N8    &kp N9   &kp N0   &kp MINUS
-&kp LSHFT  &trans        &trans        &trans        &trans        &kp LBKT      &kp RIGHT_BRACKET          &kp COLON  &trans    &trans   &trans   &kp EQUAL
-                                       &trans        &trans        &kp SPACE     &kp RET                    &trans     &kp RALT
+&kp F1     &kp F2        &kp F3               &kp F4              &kp F5              &kp F6            &kp F7                     &kp F8        &kp F9        &kp F10        &kp F11  &kp F12
+&kp GRAVE  &kp NUMBER_1  &HML LCTRL NUMBER_2  &HML LALT NUMBER_3  &HML LCMD NUMBER_4  &HML LSHIFT N5    &HMR RIGHT_SHIFT NUMBER_6  &HMR RCMD N7  &HMR RALT N8  &HMR RCTRL N9  &kp N0   &kp MINUS
+&kp LSHFT  &trans        &trans               &trans              &trans              &kp LBKT          &kp RIGHT_BRACKET          &kp COLON     &trans        &trans         &trans   &kp EQUAL
+                                              &trans              &trans              &kp SPACE         &kp RET                    &trans        &kp RALT
             >;
         };
 
